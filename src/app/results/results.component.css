@@ -4,5 +4,9 @@
 table{
   color: gray;
   margin-top: 20px;
+  width: 600px;
 }
 
+.container{
+  display: inline;
+}

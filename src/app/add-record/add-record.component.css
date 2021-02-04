@@ -7,3 +7,7 @@
 .btnDiv{
   margin-top: 20px;
 }
+.container{
+  display: inline;
+  float: left;
+}
